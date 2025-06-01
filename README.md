@@ -2,8 +2,7 @@
 
 This project explores the application of **Reinforcement Learning (RL)** for stock trading, comparing three key algorithms: **PPO**, **Recurrent PPO**, and **A2C**. Our goal is to identify robust, adaptive strategies capable of outperforming traditional methods under varying market conditions.
 
-📍 **GitHub**: [https://github.com/rogerhsiehh/DMU](https://github.com/rogerhsiehh/DMU)  
-🎥 **Video Demo**: [Watch here](https://drive.google.com/file/d/1gxMLyhWfYKoPDn30XYiu1wuriji-6G2B/view)
+📍 **GitHub**: [https://github.com/rogerhsiehh/DMU](https://github.com/rogerhsiehh/DMU) 
 
 ---
 
