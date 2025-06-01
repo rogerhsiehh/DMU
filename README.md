@@ -96,16 +96,3 @@ We modified the [Gym-AnyTrading](https://github.com/AminHP/gym-anytrading) envir
 - Moving Average strategies underperformed in all tests.
 
 ---
-
-## 🔧 How to Run
-
-```bash
-git clone https://github.com/rogerhsiehh/DMU.git
-cd DMU
-pip install -r requirements.txt
-
-# To train a model (e.g., PPO)
-python train_ppo.py
-# or Recurrent PPO / A2C
-python train_recurrent_ppo.py
-python train_a2c.py
